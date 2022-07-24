@@ -7,7 +7,8 @@ Bu repo [Kodluyoruz](https://app.patika.dev/paths/baslangic-seviye-frontend-web-
 
 [Repom](https://github.com/erknmckr1/kodluyoruzilkrepo/blob/main/README.md)
 
-##Usage
+## Usage
+
 Projeyi cloneladıktan sonra Visul Studio Code programında açınız.
 Linux için:
 ```
